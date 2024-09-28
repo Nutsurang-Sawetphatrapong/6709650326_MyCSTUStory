@@ -122,3 +122,54 @@ nav ul li a {
     padding: 20px;
     font-family: Barlow Condensed;
 }
+.header3 {
+    background-color: rgba(2, 2, 8, 0.846);
+    padding: 20px;
+    width: auto;
+    text-align: center;
+    font-family: Anton;
+}
+
+.background-container {
+    background-image: url('resources/mypic6.jpeg');
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.text-center h1 {
+    position: static;
+    font-family: Barlow Condensed;
+    font-size: 5em;
+    color: #f1281edf;
+    text-shadow: 2px 2px 05px rgba(0, 0, 0, 0.7);
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f2f7;
+}
+
+tr:nth-child(even) td {
+    background-color: #e3c1c2;
+}
+
+tr:nth-child(odd) td {
+    background-color: #ead8dd;
+}
