@@ -77,16 +77,15 @@ nav ul li a {
 }
 
 .header2 {
-    background-color: rgba(2, 2, 8, 0.846);
+    background-color: rgba(2, 2, 6, 0.905);
     padding: 20px;
     text-align: center;
 }
-
 #jy {
     color: rgb(234, 59, 59);
     font-family: Anton;
+    text-align: center;
 }
-
 #navjy {
     background-color: #f1281edf;
     opacity: 50%;
@@ -104,7 +103,6 @@ nav ul li a {
     padding: 20px;
     font-family: Barlow Condensed;
 }
-
 .journey3 {
     background: linear-gradient(to right, #da3a14, #e6ccce);
     border-radius: 8px;
@@ -113,7 +111,6 @@ nav ul li a {
     padding: 20px;
     font-family: Barlow Condensed;
 }
-
 .journey4 {
     background: linear-gradient(to right, #da3a14, #e6ccce);
     border-radius: 8px;
@@ -129,7 +126,6 @@ nav ul li a {
     text-align: center;
     font-family: Anton;
 }
-
 .background-container {
     background-image: url('resources/mypic6.jpeg');
     background-size: cover;
@@ -140,7 +136,6 @@ nav ul li a {
     align-items: center;
     text-align: center;
 }
-
 .text-center h1 {
     position: static;
     font-family: Barlow Condensed;
@@ -159,7 +154,6 @@ th,td {
     padding: 10px;
     text-align: center;
 }
-
 th {
     background-color: #f0f2f7;
 }
@@ -177,7 +171,6 @@ tr:nth-child(odd) td {
     margin: 20px auto;
     max-width: 100vw;
 }
-
 .img-future img {
     width: 32%;
     height: auto;
